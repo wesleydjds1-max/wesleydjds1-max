@@ -27,8 +27,8 @@ Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho inter
 ---
 
 ## 📂 Projetos no GitHub
-- [Desafio Cartas Super Trunfo](https://github.com/wesleydjds1-max/Desafio-Cartas-Super-Trunfo) – Jogo de cartas desenvolvido em Python  
-- Mais projetos em construção 🚧  
+- [Desafio Cartas Super Trunfo](https://github.com/wesleydjds1-max/Desafio-Cartas-Super-Trunfo) – Jogo de cartas desenvolvido em Python.  
+- Mais projetos em construção. 🚧  
 
 ---
 
