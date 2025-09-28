@@ -45,8 +45,8 @@ Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho inter
 ---
 
 ## 🌱 Cursos e Certificações
-- **Mimo** – Curso de Full-Stack Development (em andamento)  
-- **SENAC** – Certificação em Aprendizagem Profissional de Qualificação em Serviços de Vendas  
+- **Mimo**: Curso de Full-Stack Development (em andamento)  
+- **SENAC**: Certificação em Aprendizagem Profissional de Qualificação em Serviços de Vendas  
 
 ---
 
