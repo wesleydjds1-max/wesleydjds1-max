@@ -64,7 +64,7 @@ Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho inter
 
 ---
 
-🚀 "Aprender nunca é demais. Estou sempre em busca de novos desafios!"
+🚀 _Aprender nunca é demais. Estou sempre em busca de novos desafios!_ 🚀
 
 ---
 
