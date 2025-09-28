@@ -51,8 +51,8 @@ Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho inter
 ---
 
 ## 🌍 Idiomas
-- 🇪🇸 Espanhol – Intermediário  
-- 🇺🇸 Inglês – Básico  
+- 🇪🇸 Espanhol: Intermediário, com boa compreensão e capacidade de comunicação.
+- 🇺🇸 Inglês: Básico, com conhecimento fundamental da língua.
 
 ---
 
