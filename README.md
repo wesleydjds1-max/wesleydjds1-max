@@ -40,7 +40,7 @@ Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho inter
 
 ## 💼 Experiência Profissional
 **Unilider Distribuidora S/A** – Jovem Aprendiz (Logística Externa)  
-📅 Setembro de 2023 – Novembro de 2024  
+📅 Setembro de 2023 a Novembro de 2024  
 
 ---
 
