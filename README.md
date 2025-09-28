@@ -71,14 +71,3 @@ Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho inter
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wesleydjds1-max&color=blue" alt="Contador de visitas">
 </p>
-
-
-## 📫 Contato
-📞 (21) 96628-3656  
-✉️ [wesleydjds1@gmail.com](mailto:wesleydjds1@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/wesley-de-jesus-29a244338)  
-🔗 [GitHub](https://github.com/wesleydjds1-max)  
-
----
-
-> "Aprender nunca é demais. Estou sempre em busca de novos desafios!" 🚀
