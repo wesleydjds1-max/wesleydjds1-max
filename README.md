@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou **Wesley de Jesus dos Santos**!
+# 👋 Olá, eu sou **Wesley de Jesus dos Santos!**
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** | 💻 Desenvolvedor Full-Stack em formação  
 📍 Rio de Janeiro, Brasil | 🚀 Entusiasmado por tecnologia e aprendizado contínuo  
