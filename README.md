@@ -34,7 +34,7 @@ Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho inter
 
 ## 🎓 Formação Acadêmica
 **Universidade Estácio de Sá** – Bacharelado em Análise e Desenvolvimento de Sistemas  
-📅 Previsão de conclusão: Dezembro de 2026  
+📅 Previsão de conclusão: Julho de 2027  
 
 ---
 
