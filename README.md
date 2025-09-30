@@ -27,7 +27,8 @@ Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho inter
 ---
 
 ## 📂 Projetos no GitHub
-- [Desafio Cartas SuperTrunfo](https://github.com/wesleydjds1-max/Desafio-Cartas-Super-Trunfo) – Jogo de cartas desenvolvido em C.  
+- [Desafio Cartas SuperTrunfo](https://github.com/wesleydjds1-max/Desafio-Cartas-Super-Trunfo) – Jogo de cartas desenvolvido em C.
+- [Organizador de Arquivos](https://github.com/wesleydjds1-max/Organizador-de-Arquivos-em-Python) - Organizador de Arquivos desenvolvido em Python.
 - Mais projetos em construção. 🚧  
 
 ---
