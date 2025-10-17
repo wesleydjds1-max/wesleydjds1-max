@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou **Wesley de Jesus dos Santos!**
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** | 💻 Desenvolvedor Full-Stack em formação  
+🎓 Estudante de **Ciências da Computação** | 💻 Desenvolvedor Full-Stack em formação  
 📍 Rio de Janeiro, Brasil | 🚀 Entusiasmado por tecnologia e aprendizado contínuo  
 
 ---
@@ -35,8 +35,8 @@ Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho inter
 ---
 
 ## 🎓 Formação Acadêmica
-**Universidade Estácio de Sá** – Tecnólogo em Análise e Desenvolvimento de Sistemas  
-📅 Previsão de conclusão: Julho de 2027  
+**Universidade Estácio de Sá** – Bacharelado em Análise e Desenvolvimento de Sistemas  
+📅 Previsão de conclusão: Dezembro de 2028  
 
 ---
 
