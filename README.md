@@ -6,7 +6,7 @@
 ---
 
 ## 💡 Sobre Mim
-Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho interesse em desenvolvimento Full-Stack, programação e inovação. Busco oportunidades de estágio para aplicar meu conhecimento e crescer profissionalmente.
+Sou dedicado a aprender e criar soluções práticas com tecnologia. Tenho interesse em desenvolvimento Full-Stack, programação, inteligência artificial e inovação. Busco oportunidades de estágio para aplicar meu conhecimento e crescer profissionalmente.
 
 ---
 
